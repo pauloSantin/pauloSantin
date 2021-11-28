@@ -12,7 +12,7 @@ You can click the Preview link to take a look at your changes.
 
 
 <h1 align='center'>
-  Hi there 👋 I'm Paulo 👨‍💻
+  Hi there 👋 I'm Paulo Santin 👨‍💻
 </h1>
 <p align='center'>
   Developer jr | FrontEnd from Curitiba, Brazil.
