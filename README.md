@@ -24,9 +24,10 @@ You can click the Preview link to take a look at your changes.
 </p>
 
 
-
-
+<img src="https://media.giphy.com/media/l378BzHA5FwWFXVSg/giphy.gif" align="right">
+<!---
 <details>
+--->
   <summary>📃 Resume</summary>
 
 
