@@ -63,7 +63,7 @@ A Backend Python developer, open source enthusiast, hobbyist game developer, hus
 
 #### WHERE TO FIND ME
 <p>
-  <a href="https://mstuttgart.github.io/" target="_blank"><img alt="Blog" src="https://img.shields.io/badge/blog-gray.svg?style=for-the-badge&logo=www&logoColor=afc8a0" /></a>
+  <a href="https://.github.io/" target="_blank"><img alt="Blog" src="https://img.shields.io/badge/blog-gray.svg?style=for-the-badge&logo=www&logoColor=afc8a0" /></a>
   <a href="mailto:paulo.santin@gmail.com"><img src = "https://img.shields.io/badge/gmail-red?&style=for-the-badge&logo=gmail&logoColor=white"></a> 
   <a href="https://www.linkedin.com/in/paulo-otavio-santin/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-blue.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <!---
